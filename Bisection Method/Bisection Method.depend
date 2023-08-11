@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607601822 source:/home/aijaz/Desktop/programming/Numerical Analysis in C++/Bisection Method/main.cpp
+	<iostream>
+	<cmath>
+
