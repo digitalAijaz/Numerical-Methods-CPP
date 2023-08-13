@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607605914 source:/home/aijaz/Desktop/programming/Numerical Analysis in C++/Secant Method/main.cpp
+	<iostream>
+	<cmath>
+
