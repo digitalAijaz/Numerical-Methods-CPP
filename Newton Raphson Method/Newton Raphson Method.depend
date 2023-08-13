@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607607419 source:/home/aijaz/Desktop/programming/Numerical Analysis in C++/Newton Raphson Method/main.cpp
+	<iostream>
+	<cmath>
+
