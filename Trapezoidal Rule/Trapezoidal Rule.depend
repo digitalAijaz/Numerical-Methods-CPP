@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607610932 source:/home/aijaz/Desktop/programming/Numerical Analysis in C++/Trapezoidal Rule/main.cpp
+	<iostream>
+	<math.h>
+
