@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607618525 source:/home/aijaz/Desktop/programming/Numerical Analysis in C++/Simpson 3 by 8/main.cpp
+	<iostream>
+	<cmath>
+
