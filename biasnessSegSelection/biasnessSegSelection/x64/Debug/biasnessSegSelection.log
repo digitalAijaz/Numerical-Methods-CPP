@@ -1,0 +1,18 @@
+﻿  main.cpp
+F:\OneDrive - Indian Institute of Science\_The Code\Code Functional\biasnessSegSelection\biasnessSegSelection\main.cpp(107,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\OneDrive - Indian Institute of Science\_The Code\Code Functional\biasnessSegSelection\biasnessSegSelection\main.cpp(121,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\OneDrive - Indian Institute of Science\_The Code\Code Functional\biasnessSegSelection\biasnessSegSelection\main.cpp(128,43): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\OneDrive - Indian Institute of Science\_The Code\Code Functional\biasnessSegSelection\biasnessSegSelection\main.cpp(146,54): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+F:\OneDrive - Indian Institute of Science\_The Code\Code Functional\biasnessSegSelection\biasnessSegSelection\main.cpp(229,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\OneDrive - Indian Institute of Science\_The Code\Code Functional\biasnessSegSelection\biasnessSegSelection\main.cpp(244,35): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\OneDrive - Indian Institute of Science\_The Code\Code Functional\biasnessSegSelection\biasnessSegSelection\main.cpp(255,47): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\OneDrive - Indian Institute of Science\_The Code\Code Functional\biasnessSegSelection\biasnessSegSelection\main.cpp(279,58): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+F:\OneDrive - Indian Institute of Science\_The Code\Code Functional\biasnessSegSelection\biasnessSegSelection\main.cpp(284,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\OneDrive - Indian Institute of Science\_The Code\Code Functional\biasnessSegSelection\biasnessSegSelection\main.cpp(285,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\OneDrive - Indian Institute of Science\_The Code\Code Functional\biasnessSegSelection\biasnessSegSelection\main.cpp(288,69): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\OneDrive - Indian Institute of Science\_The Code\Code Functional\biasnessSegSelection\biasnessSegSelection\main.cpp(375,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\OneDrive - Indian Institute of Science\_The Code\Code Functional\biasnessSegSelection\biasnessSegSelection\main.cpp(390,35): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\OneDrive - Indian Institute of Science\_The Code\Code Functional\biasnessSegSelection\biasnessSegSelection\main.cpp(396,47): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\OneDrive - Indian Institute of Science\_The Code\Code Functional\biasnessSegSelection\biasnessSegSelection\main.cpp(411,58): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+F:\OneDrive - Indian Institute of Science\_The Code\Code Functional\biasnessSegSelection\biasnessSegSelection\main.cpp(419,69): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  biasnessSegSelection.vcxproj -> F:\OneDrive - Indian Institute of Science\_The Code\Code Functional\biasnessSegSelection\x64\Debug\biasnessSegSelection.exe

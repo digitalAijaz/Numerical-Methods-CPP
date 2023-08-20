@@ -1,0 +1,110 @@
+Target position: ,21
+2 Segment length: ,17.5
+3 Segment length: ,26
+4 Segment length: ,51.6
+,,numIter, fourSegCount, threeSegCount, twoSegCount, fourSegProb, threeSegProb, twoSegProb
+,,1,1,0,0,1,0,0
+,,10,10,0,0,1,0,0
+,,100,100,0,0,1,0,0
+,,1000,1000,0,0,1,0,0
+
+
+Target position: ,22
+2 Segment length: ,17.5
+3 Segment length: ,26
+4 Segment length: ,51.6
+,,numIter, fourSegCount, threeSegCount, twoSegCount, fourSegProb, threeSegProb, twoSegProb
+,,1,1,0,0,1,0,0
+,,10,10,0,0,1,0,0
+,,100,100,0,0,1,0,0
+,,1000,1000,0,0,1,0,0
+
+
+Target position: ,23
+2 Segment length: ,17.5
+3 Segment length: ,26
+4 Segment length: ,51.6
+,,numIter, fourSegCount, threeSegCount, twoSegCount, fourSegProb, threeSegProb, twoSegProb
+,,1,1,0,0,1,0,0
+,,10,10,0,0,1,0,0
+,,100,100,0,0,1,0,0
+,,1000,1000,0,0,1,0,0
+
+
+Target position: ,24
+2 Segment length: ,17.5
+3 Segment length: ,26
+4 Segment length: ,51.6
+,,numIter, fourSegCount, threeSegCount, twoSegCount, fourSegProb, threeSegProb, twoSegProb
+,,1,1,0,0,1,0,0
+,,10,10,0,0,1,0,0
+,,100,100,0,0,1,0,0
+,,1000,1000,0,0,1,0,0
+
+
+Target position: ,25
+2 Segment length: ,17.5
+3 Segment length: ,26
+4 Segment length: ,51.6
+,,numIter, fourSegCount, threeSegCount, twoSegCount, fourSegProb, threeSegProb, twoSegProb
+,,1,1,0,0,1,0,0
+,,10,10,0,0,1,0,0
+,,100,100,0,0,1,0,0
+,,1000,1000,0,0,1,0,0
+
+
+Target position: ,26
+2 Segment length: ,17.5
+3 Segment length: ,26
+4 Segment length: ,51.6
+,,numIter, fourSegCount, threeSegCount, twoSegCount, fourSegProb, threeSegProb, twoSegProb
+,,1,1,0,0,1,0,0
+,,10,10,0,0,1,0,0
+,,100,100,0,0,1,0,0
+,,1000,998,0,0,0.998,0,0
+
+
+Target position: ,27
+2 Segment length: ,17.5
+3 Segment length: ,26
+4 Segment length: ,51.6
+,,numIter, fourSegCount, threeSegCount, twoSegCount, fourSegProb, threeSegProb, twoSegProb
+,,1,1,0,0,1,0,0
+,,10,10,0,0,1,0,0
+,,100,95,0,0,0.95,0,0
+,,1000,982,0,0,0.982,0,0
+
+
+Target position: ,28
+2 Segment length: ,17.5
+3 Segment length: ,26
+4 Segment length: ,51.6
+,,numIter, fourSegCount, threeSegCount, twoSegCount, fourSegProb, threeSegProb, twoSegProb
+,,1,1,0,0,1,0,0
+,,10,10,0,0,1,0,0
+,,100,94,0,0,0.94,0,0
+,,1000,915,0,0,0.915,0,0
+
+
+Target position: ,29
+2 Segment length: ,17.5
+3 Segment length: ,26
+4 Segment length: ,51.6
+,,numIter, fourSegCount, threeSegCount, twoSegCount, fourSegProb, threeSegProb, twoSegProb
+,,1,1,0,0,1,0,0
+,,10,8,0,0,0.8,0,0
+,,100,79,0,0,0.79,0,0
+,,1000,753,0,0,0.753,0,0
+
+
+Target position: ,30
+2 Segment length: ,17.5
+3 Segment length: ,26
+4 Segment length: ,51.6
+,,numIter, fourSegCount, threeSegCount, twoSegCount, fourSegProb, threeSegProb, twoSegProb
+,,1,1,0,0,1,0,0
+,,10,6,0,0,0.6,0,0
+,,100,53,0,0,0.53,0,0
+,,1000,528,0,0,0.528,0,0
+
+
